@@ -13,7 +13,8 @@ git push -u origin master
 #for adding complete folder 
 git add .
 
- 
+#for connecting to remote server 
+git remote add origin git@github.com:qatrainingca/PyAssignments.git
 
 
 
