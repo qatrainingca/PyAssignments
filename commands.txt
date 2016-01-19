@@ -1,0 +1,19 @@
+#for initializing git in Current working directory
+git init 
+
+#for adding file 
+git add ex1.py
+
+#for commit 
+git commit -m "comment"
+
+#for pushing into remote server
+git push -u origin master 
+
+#for adding complete folder 
+git add .
+
+ 
+
+
+
