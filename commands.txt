@@ -1,5 +1,5 @@
 #for initializing git in Current working directory
-#my first branch
+#my second branch
 git init 
 
 #for adding file 
@@ -15,6 +15,11 @@ git push -u origin master
 git add .
 
  
+
+
+
+
+
 
 
 
